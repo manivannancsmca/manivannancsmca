@@ -1,8 +1,17 @@
 # Hi, I'm Manivannan K 👋
 
-### Senior Software Engineer & Backend Lead · Chennai, India
+### Senior Software Engineer · Chennai, India
 
-Senior Backend Engineer with **8+ years** of experience building scalable distributed systems using **Java, Spring Boot, Kafka and AWS**. I specialise in event-driven microservices, high-concurrency backend systems, CI/CD automation and cloud-native architectures deployed on **Kubernetes**. I've led backend modernization initiatives, built observability stacks, and optimized large-scale transactional systems.
+Senior Backend Engineer with **8+ years** of experience building scalable distributed systems using **Java, Spring Boot, Kafka and AWS**. I specialise in event-driven microservices, high-concurrency backend systems, CI/CD automation and cloud-native architectures deployed on **Kubernetes** — and I'm now bringing **AI into Java backends with Spring AI**.
+
+---
+
+## 🤖 Spring AI Focus
+
+- 🧠 Building **AI-powered Java services with Spring AI** — LLM integration with **Ollama** (local models)
+- 📚 **RAG pipelines** for AI-assisted document retrieval and contextual search
+- 🔌 **MCP (Model Context Protocol)** servers & clients to connect LLMs to real microservices and tools
+- 🔎 Combining Spring AI with **Elasticsearch**, Kafka and Spring Boot microservices for intelligent search
 
 ---
 
